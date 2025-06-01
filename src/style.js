@@ -13,7 +13,7 @@ const style = css`
     overflow: hidden;
   }
   ha-card > div {
-    padding: 0px 16px 16px 16px;
+    padding: 0px 0px 0px 0px;
   }
   ha-card > div:last-child {
     padding-bottom: 0;
@@ -44,7 +44,7 @@ const style = css`
   }
   ha-card .graph__legend {
     order: -1;
-    padding: 0 16px 8px 16px;
+    padding: 0 0px 8px 0px;
   }
   ha-card[group] {
     box-shadow: none;
